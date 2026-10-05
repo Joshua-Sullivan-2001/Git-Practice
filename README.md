@@ -1,4 +1,4 @@
-# Git Practice 
+# My Version Control Practice
 # This repository belongs to Joshua Sullivan. I am learning how to use Git and GitHub.
 ## Skills practiced
 * Local repository initialization using git init
