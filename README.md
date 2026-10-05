@@ -1,7 +1,7 @@
 # Git Practice 
 # This repository belongs to Joshua Sullivan. I am learning how to use Git and GitHub.
 ## Skills practiced
-* Local repository initialisation using git init
+* Local repository initialization using git init
 * Configuring global user identity names and emails
 * Staging changes using git add
 * Creating commits with descriptive tracking messages
